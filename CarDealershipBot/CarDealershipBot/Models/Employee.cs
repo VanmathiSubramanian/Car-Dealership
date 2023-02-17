@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarDealershipBot.Models
 {
-    class Customer
+    class Employee
     {
-        int CustomerId;
-        int CustomerName;
-        int Phone;
-        int Address;
-        int Email;
     }
 }
