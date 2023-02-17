@@ -8,5 +8,11 @@ namespace CarDealershipBot.Models
 {
     class Employee
     {
+        int EmpId;
+        String EmpName;
+        int Phone;
+        String Addresss;
+        String Designation;
+        int Employeddate;
     }
 }
